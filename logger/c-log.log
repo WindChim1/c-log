@@ -1,0 +1,31 @@
+[ INFO]: c_log::log_test - info
+[ WARN]: c_log::log_test - warn
+[ERROR]: c_log::log_test - error
+[DEBUG]: c_log::log_test - debug
+[TRACE]: c_log::log_test - trace
+[ INFO][2023-10-15 01:09:10] c_log::log_test: info
+[ WARN][2023-10-15 01:09:10] c_log::log_test: warn
+[ERROR][2023-10-15 01:09:10] c_log::log_test: error
+[DEBUG][2023-10-15 01:09:10] c_log::log_test: debug
+[TRACE][2023-10-15 01:09:10] c_log::log_test: trace
+[ INFO][2023-10-15 16:38:11] c_log::log_test: info
+[ INFO][2023-10-15 16:38:50] c_log::log_test: info
+[ INFO][2023-10-15 16:39:43] c_log::log_test: info
+[ WARN][2023-10-15 16:39:43] c_log::log_test: warn
+[ERROR][2023-10-15 16:39:43] c_log::log_test: error
+[DEBUG][2023-10-15 16:39:43] c_log::log_test: debug
+[TRACE][2023-10-15 16:39:43] c_log::log_test: trace
+[ INFO][2023-10-15 16:40:14] c_log::log_test: info
+[ INFO][2023-10-15 16:44:07] c_log::log_test: info
+[ INFO][2023-10-15 16:44:24] c_log::log_test: info
+[ INFO][2023-10-15 16:46:53] c_log::log_test: info
+[ INFO][2023-10-15 16:48:42] c_log::log_test: info
+[ WARN][2023-10-15 16:48:42] c_log::log_test: warn
+[ERROR][2023-10-15 16:48:42] c_log::log_test: error
+[DEBUG][2023-10-15 16:48:42] c_log::log_test: debug
+[TRACE][2023-10-15 16:48:42] c_log::log_test: trace
+[ INFO][2023-10-15 16:49:56] c_log::log_test: info
+[ WARN][2023-10-15 16:49:56] c_log::log_test: warn
+[ERROR][2023-10-15 16:49:56] c_log::log_test: error
+[DEBUG][2023-10-15 16:49:56] c_log::log_test: debug
+[TRACE][2023-10-15 16:49:56] c_log::log_test: trace
